@@ -84,18 +84,6 @@ Fact table : It will have the data about the transactions
 
 <img src="(https://github.com/jkovuru/Hospitality_Insights/blob/main/Report/data%20model.png)" class="center">
 
-### Dashboard designing
-
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
-
-## Home view
-
-In Home view, all the views button will be available. User will land on specific view page by clicking the button 
-
-- Executive View
-- Products
-- Customers
-- Map
 
 ## Overall Report
 
