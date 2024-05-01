@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Adventure works has experienced significant growth in recent years and has made the strategic decision to introduce Power BI-based data analytics within their organization. The objective is to outperform competitors in the market and enable data-driven decision-making. This initiative aims to address stakeholder inquiries across various domains including finance, sales, marketing, and supply chain management.
+AtliQ hotels have experienced significant growth in recent years and have made the strategic decision to introduce Power BI-based data analytics within their organization. The objective is to outperform competitors in the market and enable data-driven decision-making. This initiative aims to address stakeholder inquiries across various domains including finance, sales, marketing, and supply chain management.
 
 [Live Report Link](https://app.powerbi.com/groups/me/reports/4c01b90d-02ed-4496-bc78-542a97b6c39b/ReportSection8b3607d3a9eb5c7e678f?experience=power-bi)
 ## Technology used
